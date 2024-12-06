@@ -7,7 +7,7 @@
     <list default="true" id="43ed30a4-669a-41e0-9d62-9e708906c33e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/days/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/days/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/days/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/days/Day2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
